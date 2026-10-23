@@ -1,0 +1,42 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.container{
+    justify-content: center;
+    display: flex;
+    height: 1000px;
+    width: 1000px;
+    background-color: blue;
+    border-style: solid;
+    border-color: white;
+}
+
+.box1{
+    height: 300px;
+    width: 200px;
+    background-color: green;
+    border-style: solid;
+    border-color: white;
+}
+
+.box2{
+    height: 300px;
+    width: 200px;
+    background-color: red;
+    border-style: solid;
+    border-color: white;
+}
+
+.box3{
+    height: 300px;
+    width: 200px;
+    background-color: yellow;
+    border-style: solid;
+    border-color: white;
+}
